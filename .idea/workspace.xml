@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9077843-9098-47ce-8467-0c809e9c1124" name="Default Changelist" comment="" />
+    <list default="true" id="e9077843-9098-47ce-8467-0c809e9c1124" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y6yZXOjYjHryyPfJExpzyBjxWF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -82,9 +89,10 @@
       <screen x="67" y="27" width="1981" height="1003" />
     </state>
     <state width="1954" height="397" key="GridCell.Tab.0.right/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890768" />
-    <state x="648" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1582277401578">
-      <screen x="67" y="27" width="1853" height="1173" />
+    <state x="688" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582285310336">
+      <screen x="67" y="27" width="1981" height="1003" />
     </state>
     <state x="648" y="440" key="com.intellij.ide.util.TipDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1582277401578" />
+    <state x="688" y="380" key="com.intellij.ide.util.TipDialog/67.27.1981.1003@67.27.1981.1003" timestamp="1582285310336" />
   </component>
 </project>
