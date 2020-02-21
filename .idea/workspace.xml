@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9077843-9098-47ce-8467-0c809e9c1124" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y6yZXOjYjHryyPfJExpzyBjxWF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="pyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-q&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-q&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9077843-9098-47ce-8467-0c809e9c1124" name="Default Changelist" comment="" />
+      <created>1582277394594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582277394594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="185" width="1084" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582277765254">
+      <screen x="67" y="27" width="1981" height="1003" />
+    </state>
+    <state x="515" y="185" width="1084" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1981.1003@67.27.1981.1003" timestamp="1582277765254" />
+    <state width="1954" height="397" key="GridCell.Tab.0.bottom" timestamp="1582277890768">
+      <screen x="67" y="27" width="1981" height="1003" />
+    </state>
+    <state width="1954" height="397" key="GridCell.Tab.0.bottom/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890768" />
+    <state width="1954" height="397" key="GridCell.Tab.0.center" timestamp="1582277890767">
+      <screen x="67" y="27" width="1981" height="1003" />
+    </state>
+    <state width="1954" height="397" key="GridCell.Tab.0.center/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890767" />
+    <state width="1954" height="397" key="GridCell.Tab.0.left" timestamp="1582277890766">
+      <screen x="67" y="27" width="1981" height="1003" />
+    </state>
+    <state width="1954" height="397" key="GridCell.Tab.0.left/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890766" />
+    <state width="1954" height="397" key="GridCell.Tab.0.right" timestamp="1582277890768">
+      <screen x="67" y="27" width="1981" height="1003" />
+    </state>
+    <state width="1954" height="397" key="GridCell.Tab.0.right/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890768" />
+    <state x="648" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1582277401578">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="648" y="440" key="com.intellij.ide.util.TipDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1582277401578" />
+  </component>
+</project>
