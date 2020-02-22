@@ -12,4 +12,5 @@ To learn & test pytest
 ### Files:
 
 1. `test_PyTest_1.py` pytest: Assert that a certain exception is raised
-1. 
+1. `test_PyTest_2.py` develop multiple tests, test class
+1. `test_PyTest_3.py` 
