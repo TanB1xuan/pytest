@@ -11,6 +11,7 @@ To learn & test pytest
 
 ### Files:
 
+0. `conftest.py` pytest's config file
 1. `test_PyTest_1.py` pytest: Assert that a certain exception is raised
 1. `test_PyTest_2.py` develop multiple tests, test class
 1. `test_PyTest_3.py` The -r flag can be used to display a 
@@ -18,4 +19,6 @@ To learn & test pytest
 making it easy in large test suites to get a clear picture 
 of all failures, skips, xfails, etc.
 1. `test_PyTest_4.py` test how to use the breakpoint
-1. `test_PyTest_5.py` 
+1. `test_PyTest_5.py` record property, integrate this 
+functionality with custom markers.
+1. `test_PyTest_6.py` 
