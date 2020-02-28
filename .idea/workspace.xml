@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9077843-9098-47ce-8467-0c809e9c1124" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_PyTest_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_PyTest_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_PyTest_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test_suite.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="pyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,11 +77,15 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;--junitxml\u003d./test_suite.xml  test_PyTest_5.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--junitxml\u003d./test_suite.xml  test_decorator.py&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;CUSTOM&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python tests.pytest" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,66 +101,74 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="636" y="229" width="1084" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582556304686">
+    <state x="568" y="104" width="1205" height="926" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582872797572">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state x="515" y="185" width="1084" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1981.1003@67.27.1981.1003" timestamp="1582277765254" />
     <state x="517" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/75.34.1955.978@75.34.1955.978" timestamp="1582467071803" />
-    <state x="636" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/75.34.1973.996@75.34.1973.996" timestamp="1582556304686" />
+    <state x="568" y="104" width="1205" height="926" key="#com.intellij.execution.impl.EditConfigurationsDialog/75.34.1973.996@75.34.1973.996" timestamp="1582872797572" />
     <state x="314" y="386" width="729" height="440" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582529042932">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state x="314" y="386" width="729" height="440" key="#com.intellij.fileTypes.FileTypeChooser/75.34.1973.996@75.34.1973.996" timestamp="1582529042932" />
+    <state x="760" y="117" key="#xdebugger.evaluate" timestamp="1582872493508">
+      <screen x="75" y="34" width="1973" height="996" />
+    </state>
+    <state x="760" y="117" key="#xdebugger.evaluate/75.34.1973.996@75.34.1973.996" timestamp="1582872493508" />
     <state x="791" y="232" width="530" height="600" key="FileChooserDialogImpl" timestamp="1582544465517">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state x="791" y="232" width="530" height="600" key="FileChooserDialogImpl/75.34.1973.996@75.34.1973.996" timestamp="1582544465517" />
-    <state width="836" height="807" key="GridCell.Tab.0.bottom" timestamp="1582556499371">
+    <state width="1909" height="351" key="GridCell.Tab.0.bottom" timestamp="1582872807285">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state width="1954" height="397" key="GridCell.Tab.0.bottom/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890768" />
-    <state width="836" height="807" key="GridCell.Tab.0.bottom/75.34.1973.996@75.34.1973.996" timestamp="1582556499371" />
-    <state width="836" height="807" key="GridCell.Tab.0.center" timestamp="1582556499369">
+    <state width="1909" height="351" key="GridCell.Tab.0.bottom/75.34.1973.996@75.34.1973.996" timestamp="1582872807285" />
+    <state width="763" height="797" key="GridCell.Tab.0.bottom/75.34.947.986@75.34.947.986" timestamp="1582601499985" />
+    <state width="1909" height="351" key="GridCell.Tab.0.center" timestamp="1582872807283">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state width="1954" height="397" key="GridCell.Tab.0.center/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890767" />
-    <state width="836" height="807" key="GridCell.Tab.0.center/75.34.1973.996@75.34.1973.996" timestamp="1582556499369" />
-    <state width="836" height="807" key="GridCell.Tab.0.left" timestamp="1582556499368">
+    <state width="1909" height="351" key="GridCell.Tab.0.center/75.34.1973.996@75.34.1973.996" timestamp="1582872807283" />
+    <state width="763" height="797" key="GridCell.Tab.0.center/75.34.947.986@75.34.947.986" timestamp="1582601499984" />
+    <state width="1909" height="351" key="GridCell.Tab.0.left" timestamp="1582872807282">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state width="1954" height="397" key="GridCell.Tab.0.left/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890766" />
-    <state width="836" height="807" key="GridCell.Tab.0.left/75.34.1973.996@75.34.1973.996" timestamp="1582556499368" />
-    <state width="836" height="807" key="GridCell.Tab.0.right" timestamp="1582556499370">
+    <state width="1909" height="351" key="GridCell.Tab.0.left/75.34.1973.996@75.34.1973.996" timestamp="1582872807282" />
+    <state width="763" height="797" key="GridCell.Tab.0.left/75.34.947.986@75.34.947.986" timestamp="1582601499982" />
+    <state width="1909" height="351" key="GridCell.Tab.0.right" timestamp="1582872807284">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state width="1954" height="397" key="GridCell.Tab.0.right/67.27.1981.1003@67.27.1981.1003" timestamp="1582277890768" />
-    <state width="836" height="807" key="GridCell.Tab.0.right/75.34.1973.996@75.34.1973.996" timestamp="1582556499370" />
-    <state width="1909" height="338" key="GridCell.Tab.1.bottom" timestamp="1582529853384">
+    <state width="1909" height="351" key="GridCell.Tab.0.right/75.34.1973.996@75.34.1973.996" timestamp="1582872807284" />
+    <state width="763" height="797" key="GridCell.Tab.0.right/75.34.947.986@75.34.947.986" timestamp="1582601499984" />
+    <state width="1909" height="351" key="GridCell.Tab.1.bottom" timestamp="1582872807287">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
-    <state width="1909" height="338" key="GridCell.Tab.1.bottom/75.34.1973.996@75.34.1973.996" timestamp="1582529853384" />
-    <state width="1909" height="338" key="GridCell.Tab.1.center" timestamp="1582529853383">
+    <state width="1909" height="351" key="GridCell.Tab.1.bottom/75.34.1973.996@75.34.1973.996" timestamp="1582872807287" />
+    <state width="1909" height="351" key="GridCell.Tab.1.center" timestamp="1582872807287">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
-    <state width="1909" height="338" key="GridCell.Tab.1.center/75.34.1973.996@75.34.1973.996" timestamp="1582529853383" />
-    <state width="1909" height="338" key="GridCell.Tab.1.left" timestamp="1582529853383">
+    <state width="1909" height="351" key="GridCell.Tab.1.center/75.34.1973.996@75.34.1973.996" timestamp="1582872807287" />
+    <state width="1909" height="351" key="GridCell.Tab.1.left" timestamp="1582872807286">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
-    <state width="1909" height="338" key="GridCell.Tab.1.left/75.34.1973.996@75.34.1973.996" timestamp="1582529853383" />
-    <state width="1909" height="338" key="GridCell.Tab.1.right" timestamp="1582529853384">
+    <state width="1909" height="351" key="GridCell.Tab.1.left/75.34.1973.996@75.34.1973.996" timestamp="1582872807286" />
+    <state width="1909" height="351" key="GridCell.Tab.1.right" timestamp="1582872807287">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
-    <state width="1909" height="338" key="GridCell.Tab.1.right/75.34.1973.996@75.34.1973.996" timestamp="1582529853384" />
+    <state width="1909" height="351" key="GridCell.Tab.1.right/75.34.1973.996@75.34.1973.996" timestamp="1582872807287" />
     <state x="419" y="78" width="1284" height="907" key="SettingsEditor" timestamp="1582340377946">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state x="419" y="78" width="1284" height="907" key="SettingsEditor/75.34.1973.996@75.34.1973.996" timestamp="1582340377946" />
-    <state x="693" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1582466706985">
+    <state x="693" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1582871970533">
       <screen x="75" y="34" width="1973" height="996" />
     </state>
     <state x="648" y="440" key="com.intellij.ide.util.TipDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1582277401578" />
     <state x="688" y="380" key="com.intellij.ide.util.TipDialog/67.27.1981.1003@67.27.1981.1003" timestamp="1582285310336" />
-    <state x="693" y="385" key="com.intellij.ide.util.TipDialog/75.34.1973.996@75.34.1973.996" timestamp="1582466706985" />
+    <state x="693" y="385" key="com.intellij.ide.util.TipDialog/75.34.1973.996@75.34.1973.996" timestamp="1582871970533" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -142,6 +177,31 @@
           <url>file://$PROJECT_DIR$/test_PyTest_4.py</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_decorator.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_decorator.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_decorator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_decorator.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_decorator.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
